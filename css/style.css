@@ -56,7 +56,20 @@ body {
     box-shadow: -3px 3px;
     font-size: 2vh;
   }
-  
+  .boton:hover{
+    text-decoration: none;
+    right: 1px;
+    position: relative;
+    float:left;
+    background: #130e01;
+    color: rgb(243, 238, 238);
+    
+    margin: 1%;
+    padding: 1.5%;
+    border: solid rgb(247, 239, 239) 1px;
+    box-shadow: -3px 3px;
+    font-size: 3vh;  
+  }
   .loultimo {
     display: inline-block;
     margin-left: 1%;
